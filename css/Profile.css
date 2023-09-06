@@ -1,0 +1,177 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 1rem;
+  --font-size-smi: 0.81rem;
+
+  /* Colors */
+  --color-gray-100: rgba(0, 0, 0, 0.7);
+  --color-gainsboro: #e6e6e6;
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-xl: 20px;
+}
+
+
+.img_desktop{
+    width: 1440px;
+    height: 643px;
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+
+.desktop-slider{
+    box-sizing: border-box;
+    background: #ffffff;
+    width: 1440px;
+    height: 750px;
+    position: relative;
+    overflow: hidden;
+}
+
+.user-profile{
+  background: #ffffff;
+  border-radius: 24px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 965px;
+  height: 100px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin-left: 17rem; 
+}
+
+.t-user-profile{
+    color: #198aca;
+    text-align: center;
+    font: 600 20px "Inter", sans-serif;
+    position: relative;
+    width: 374px;
+    height: 34px;
+    box-sizing: border-box;
+    
+    margin-left: 20rem; 
+}
+
+.user-detail{
+    background: rgba(48, 92, 144, 0.15);
+  border-radius: 24px;
+  width: 965px;
+  height: 242px;
+  position: absolute;
+  left: 228px;
+  top: 1031px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin-left: 3rem; 
+}
+
+.t-user-detail{
+    color: #198aca;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  margin-top: 1.5rem;
+  margin-left: 3rem;
+}
+
+.button_back{
+    background: rgba(48, 92, 144, 0.63);
+  width: 206px;
+  height: 45px;
+  position: absolute;
+  left: 660px;
+  top: 1327px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.Name{
+    color: #000000;
+  text-align: center;
+  font: 400 15px "Inter", sans-serif;
+  position: relative;
+  margin-left: 3rem;
+  top: 2rem;
+}
+
+.email-address{
+    color: #000000;
+  text-align: center;
+  font: 400 15px "Inter", sans-serif;
+  position: relative;
+  margin-left: 3rem;
+  top: 5rem;
+}
+
+.address{
+    color: #000000 !important;
+  text-align: center !important;
+  font: 400 15px "Inter", sans-serif!important;
+  position: relative!important;
+  margin-left: 3rem!important;
+  top: 2rem!important;
+  left: 5rem!important;
+}
+
+.phone-number{
+    color: #000000;
+  text-align: center;
+  font: 400 15px "Inter", sans-serif;
+  position: relative;
+  margin-left: 3rem;
+  top: 5rem;
+  left: 1rem;
+}
+
+.input-name{
+    box-sizing: border-box;
+    background: #ffffff;
+  border-radius: 12px;
+  width: 254px!important;
+  height: 33px!important;
+  position: relative;
+  top: 2rem;
+  left: 5.57rem;
+}
+
+.input-email-address{
+    box-sizing: border-box;
+    background: #ffffff;
+  border-radius: 12px;
+  width: 254px !important;
+  height: 33px !important;
+  position: relative;
+  top: 5rem;
+  left: 2rem;
+}
+
+.input-address{
+    box-sizing: border-box;
+    background: #ffffff;
+  border-radius: 12px;
+  width: 254px !important;
+  height: 33px !important;
+  position: relative;
+  top: 2rem;
+  left: 10rem;
+}
+
+.input-phone-number{
+    box-sizing: border-box;
+    background: #ffffff;
+  border-radius: 12px;
+  width: 254px!important;
+  height: 33px!important;
+  position: relative;
+  top: 5rem;
+  left: 3.4rem;
+}
