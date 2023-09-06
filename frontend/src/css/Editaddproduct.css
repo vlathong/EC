@@ -1,0 +1,243 @@
+.order_image,
+.order_image
+  * {
+  box-sizing: border-box;
+}
+.order_image {
+  width: 643px;
+  height: 400px;
+  text-align: left;
+  
+  left: 1px;
+  right: 1800px;
+  bottom: 1300px;
+  top: 150px;  
+}
+.rectanglee-7,
+.rectanglee-7 * {
+  box-sizing: border-box;
+}
+.rectanglee-7 {
+  background: rgba(48, 92, 144, 0.15);
+  border-radius: 24px;
+  width: 1280px;
+  height: 430px;
+  margin-left: 150px;
+  margin-top: 60px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.edit-product,
+.edit-product * {
+  box-sizing: border-box;
+}
+.edit-product {
+  color: #198aca;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  padding-top: 20px; 
+}
+.product-namee,
+.product-namee * {
+  box-sizing: border-box;
+}
+.product-namee {
+  color: #000000;
+  text-align: center;
+  font: 400 15px "Inter", sans-serif;
+  text-align: left;
+  margin-left: 47px;
+}
+.rectanglee-1,
+.rectanglee-1 * {
+  box-sizing: border-box;
+}
+.rectanglee-1 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 914px;
+  height: 33px;
+  margin-left: 44px;  
+}
+.brand,
+.brand * {
+  box-sizing: border-box;
+}
+.brand {
+  color: #000000;
+  font: 400 15px "Inter", sans-serif;
+  margin-left: 47px;
+  margin-top: 10px;
+}
+.rectanglee-2,
+.rectanglee-2 * {
+  box-sizing: border-box;
+}
+.rectanglee-2 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 254px;
+  height: 33px;
+  margin-left: 44px;
+}
+.pricee,
+.pricee * {
+  box-sizing: border-box;
+}
+.pricee {
+  color: #000000;
+  text-align: center;
+  font: 400 15px "Inter", sans-serif;
+  margin-top: 10px;
+  text-align: left;
+  margin-left: 83px;
+}
+.rectanglee-10,
+.rectanglee-10 * {
+  box-sizing: border-box;
+}
+.rectanglee-10 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 254px;
+  height: 33px;
+  margin-left: 80px;
+}
+.gender,
+.gender * {
+  box-sizing: border-box;
+}
+.gender {
+  color: #000000;
+  text-align: center;
+  font: 400 15px "Inter", sans-serif;
+  
+  margin-top: 10px;
+  text-align: left;
+  margin-left: 77px;
+}
+.rectanglee-12,
+.rectanglee-12 * {
+  box-sizing: border-box;
+}
+.rectanglee-12 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 254px;
+  height: 33px;
+  margin-left: 75px;
+}
+.height,
+.height * {
+  box-sizing: border-box;
+}
+.height {
+  color: #000000;
+  text-align: center;
+  font: 400 15px "Inter", sans-serif;
+  text-align: left;
+  margin-left: 47px;
+}
+.rectanglee-3,
+.rectanglee-3 * {
+  box-sizing: border-box;
+}
+.rectanglee-3 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 254px;
+  height: 33px;
+  margin-left: 44px;
+}
+.colore,
+.colore * {
+  box-sizing: border-box;
+}
+.colore {
+  color: #000000;
+  text-align: left;
+  font: 400 15px "Inter", sans-serif;
+  margin-left: 83px;
+}
+.rectanglee-11,
+.rectanglee-11 * {
+  box-sizing: border-box;
+}
+.rectanglee-11 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 254px;
+  height: 33px;
+  
+  margin-left: 80px; 
+}
+.categorye,
+.category * {
+  box-sizing: border-box;
+}
+.categorye {
+  color: #000000;
+  font: 400 15px "Inter", sans-serif;
+  margin-left: 77px;
+}
+.rectanglee-14,
+.rectanglee-14 * {
+  box-sizing: border-box;
+}
+.rectanglee-14 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 254px;
+  height: 33px;
+  
+  margin-left: 75px;
+}
+.imagee,
+.imagee * {
+  box-sizing: border-box;
+}
+.imagee {
+  color: #000000;
+  text-align: center;
+  font: 400 15px "Inter", sans-serif;
+  
+  left: 370px;
+  right: 1000px;
+  bottom: 1300px;
+  top: 430px; 
+  width: 374px;
+  height: 34px;
+}
+.rectanglee-15,
+.rectanglee-15 * {
+  box-sizing: border-box;
+}
+.rectanglee-15 {
+  background: #ffffff;
+  border-radius: 12px;
+  padding-top: 6px;
+  padding-left: 8px;
+  width: 914px;
+  height: 33px;
+  margin-left: 47px;
+}
+.rectanglee-8,
+.rectanglee-8 * {
+  box-sizing: border-box;
+}
+.rectanglee-8 {
+  background: rgba(48, 92, 144, 0.63);
+  width: 206px;
+  height: 45px;
+  margin-top: 20px;
+  margin-left: 600px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.container1,.containerEdit{
+  display: flex;
+}
+.containerEdit{
+  margin-top: 10px;
+}
+.brand-container,.price-container,.gender-container,.height-container,.color-container,category-container{
+display: block;
+}
